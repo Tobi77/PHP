@@ -1,0 +1,4 @@
+php_admin_value max_execution_time 240
+php_admin_value post_max_size 12M
+php_admin_value upload_max_filesize 12M
+php_admin_value display_errors 1
